@@ -1,0 +1,5 @@
+error C2248: 'person::firstname' : cannot access private member declared in class 'person'
+error C2248: 'person::lastname' : cannot access private member declared in class 'person'
+
+
+this error occurs because firstname andlastname are private members of class person and cannot be accessed without appropriate getters and setters 

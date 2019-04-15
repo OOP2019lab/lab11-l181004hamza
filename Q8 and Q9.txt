@@ -1,0 +1,3 @@
+when changed to protected no error occurs because we can still access the parent members using functions but cannot be accessed in main.
+
+similarly nochange occurs when changed to private this is also because of use of getters and setters
